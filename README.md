@@ -1,150 +1,70 @@
-# PersonalBlog
+# Getting Started with Create React App
 
-A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![GitHub license][mit-badge]][mit]
-[![GitHub tag][tag-badge]][tag]
-[![GitHub stars][stars-badge]][stars]
-![contributors][contributors-badge]
-[![PRs Welcome][prs-badge]][prs]
-[![Code of Conduct][coc-badge]][coc]
-[![code style prettier][prettier-badge]][prettier]
-[![Tweet][twitter-badge]][twitter]
+## Available Scripts
 
-  <br />
+In the project directory, you can run:
 
-![](static/screens/gatsby-starter-personal-blog.gif) <br />
+### `npm start`
 
-  <br />
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-See the starter in action » [demo website](https://gatsby-starter-personal-blog.greglobinski.com/) <br />For more information visit » [dev.greglobinski.com/gatsby-starter-personal-blog](https://dev.greglobinski.com/gatsby-starter-personal-blog/)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Description
+### `npm test`
 
-A ready to use, easy to customize [GatsbyJS](https://github.com/gatsbyjs/gatsby) personal blog starter with 'like app' layout transitions.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Features:
+### `npm run build`
 
-- Customizable
-- Easy editable content in Markdown files (posts, pages and parts)
-- Easily restyled through theme object
-- Styling with JSS
-- Comments (Facebook)
-- Post categories
-- Post list filtering
-- Full text searching (Algolia)
-- Contact form (Netlify form handling)
-- Material UI (@next)
-- RSS feed
-- Full screen mode
-- User adjustable articles’ body copy font size
-- Social sharing (Twitter, Facebook, Google, LinkedIn)
-- PWA (manifest.json, offline support, favicons)
-- Google Analytics
-- Favicons generator (node script)
-- Components lazy loading with AsyncComponent (social sharing, info box)
-- ESLint (google config)
-- Prettier code styling
-- Custom webpack CommonsChunkPlugin settings
-- Webpack BundleAnalyzerPlugin
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Prerequisites
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-If you do not have Gatsby Cli installed yet, do it first.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-```text
-npm install --global gatsby-cli
-```
+### `npm run eject`
 
-More information on [GatsbyJS.org](https://www.gatsbyjs.org/tutorial/part-one)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Getting started
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Install the starter using Gatsby Cli `gatsby new` command.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```text
-gatsby new [NEW_SITE_DIRECTORY_FOR_YOUR_BLOG] https://github.com/greglobinski/gatsby-starter-personal-blog.git
-```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Go into the newly created directory and run
+## Learn More
 
-```text
-gatsby develop
-```
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-to hot-serve your website on http://localhost:8000 or
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-```text
-gatsby build
-```
+### Code Splitting
 
-to create static site ready to host (/public).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-##### External services
+### Analyzing the Bundle Size
 
-The starter uses external services for some functions: comments, searching, analytics. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal blog.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Create an `.env` file like below in the root folder. Change `...` placeholders with real data.
+### Making a Progressive Web App
 
-```text
-GOOGLE_ANALYTICS_ID=...
-ALGOLIA_APP_ID=...
-ALGOLIA_SEARCH_ONLY_API_KEY=...
-ALGOLIA_ADMIN_API_KEY=...
-ALGOLIA_INDEX_NAME=...
-FB_APP_ID=...
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Instructions & tutorials
+### Advanced Configuration
 
-- [How to install, setup and add new content to a Blog starter](https://dev.greglobinski.com/install-blog-starter/)
-- [How to customize the PersonalBlog starter's appearance](https://dev.greglobinski.com/customize-personal-blog-starter/)
-- [Setup Algolia account for your GatsbyJS blog](https://dev.greglobinski.com/setup-algolia-account/)
-- More articles soon at [Front-end web development with Greg](https://dev.greglobinski.com/)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-## Windows users
+### Deployment
 
-You should take a look at this: [Gatsby on Windows](https://www.gatsbyjs.org/docs/gatsby-on-windows/)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-## Authors
+### `npm run build` fails to minify
 
-- Greg Lobinski [@greglobinski](https://github.com/greglobinski)
-
-See also the list of [contributors](https://github.com/greglobinski/gatsby-starter-personal-blog/graphs/contributors) who participated in this project.
-
-## Contributing
-
-- Fork the repo
-- Create your feature branch (git checkout -b feature/fooBar)
-- Commit your changes (git commit -am 'Add some fooBar')
-- Push to the branch (git push origin feature/fooBar)
-- Create a new Pull Request
-
-## Licence
-
-MIT License
-
-Copyright (c) 2017 gatsbyjs <br />Copyright (c) 2018 greg lobinski
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-[coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/greglobinski/gatsby-starter-personal-blog/blob/master/CODE_OF_CONDUCT.md
-[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-[prs]: http://makeapullrequest.com
-[twitter]: https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fgreglobinski%2Fgatsby-starter-personal-blog
-[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/greglobinski/gatsby-starter-personal-blog.svg?style=social
-[tag-badge]: https://img.shields.io/github/tag/greglobinski/gatsby-starter-personal-blog.svg
-[tag]: https://github.com/greglobinski/gatsby-starter-personal-blog
-[stars-badge]: https://img.shields.io/github/stars/greglobinski/gatsby-starter-personal-blog.svg
-[stars]: https://github.com/greglobinski/gatsby-starter-personal-blog/stargazers
-[contributors-badge]: https://img.shields.io/github/contributors/greglobinski/gatsby-starter-personal-blog.svg
-[prettier-badge]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square
-[prettier]: https://github.com/prettier/prettier
-[mit-badge]: https://img.shields.io/github/license/greglobinski/gatsby-starter-personal-blog.svg
-[mit]: https://github.com/greglobinski/gatsby-starter-personal-blog/blob/master/LICENSE
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
