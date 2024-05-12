@@ -1,5 +1,10 @@
 # Yasuaki NIWANO
 
+## Profile
+
+- Name: Yasuaki Niwano
+- Mail: [yasuaki.niwano@protonmail.com](mailto:yasuaki.niwano@protonmail.com)
+
 ## SNS
 
 - X (Twitter): [@yassu_nwn](https://twitter.com/yassu_nwn)
