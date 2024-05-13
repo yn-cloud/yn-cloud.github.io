@@ -1,4 +1,4 @@
-# Yasuaki NIWANO
+# Yasuaki NIWANO（庭野 恭彰）
 
 [日本語版](index_ja.md)
 

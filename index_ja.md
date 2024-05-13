@@ -1,4 +1,4 @@
-# Yasuaki Niwano
+# 庭野 恭彰 (Yasuaki Niwano)
 
 [English version](index.md)
 
