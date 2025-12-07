@@ -1,5 +1,7 @@
 # Yasuaki NIWANO
 
+Simulation Engineer
+
 ## SNS
 
 - X (Twitter): [@yassu_nwn](https://twitter.com/yassu_nwn)
