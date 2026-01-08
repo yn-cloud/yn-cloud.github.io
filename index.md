@@ -10,6 +10,20 @@
 - **GitHub**: [yn-cloud](https://github.com/yn-cloud)
 - **X**: [@yassu_nwn](https://twitter.com/yassu_nwn)
 
+## Experience
+
+### Olympus Medical Systems Corporation
+
+**Period**: April 2024 - Present
+
+- **Position**: Software Engineer, Simulation Engineer, Material Simulation Engineer
+
+### Olympus Corporation
+
+**Period**: April 2018 - March 2024
+
+- **Position**: Software Engineer, Simulation Engineer
+
 ## Education
 
 ### The University of Tokyo
