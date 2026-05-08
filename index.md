@@ -46,6 +46,12 @@
 - **Major**: Precision Engineering
 - **Degree**: Bachelor of Engineering
 
+## Skill
+
+- **Language**: 日本語、英語
+- **Programming**: Python, C#, VB.net, MATLAB
+- **Application**: LAMMPS, Visual Studio
+
 ## Journal Articles
 
 - Niwano Yasuaki, Akao Akihiko, Yotsumoto Yuko, Jimbo Yasuhiko, and Kotani Kiyoshi. 2018. “A quantitative comparison of hemoglobin concentration and BOLD signal using time-resolved near-infrared spectroscopy.” IEEJ Transactions on Electronics Information and Systems 138 (7): 790–98.
