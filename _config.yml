@@ -1,0 +1,20 @@
+title: Yasuaki NIWANO (庭野 恭彰)
+description: Portfolio of Yasuaki Niwano, a researcher and engineer.
+name: Yasuaki Niwano
+email: yasuaki.niwnao@protonmail.com
+github_username: yn-cloud
+linkedin_username: yasuaki0105niwano
+twitter_username: yassu_nwn
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - .gemini
+  - plans
+  - README.md
+  - LICENSE
+  - .gitignore
