@@ -26,14 +26,20 @@
 
 ## Education
 
-### The University of Tokyo
+### Tohoku University (Doctor)
+
+**Period**: April 2026 - Present
+
+- **Major**: Material Science
+
+### The University of Tokyo (Master)
 
 **Period**: April 2016 - March 2018
 
 - **Major**: Precision Engineering
 - **Degree**: Master of Engineering
 
-### The University of Tokyo
+### The University of Tokyo (Bachelor)
 
 **Period**: April 2012 - March 2016
 
