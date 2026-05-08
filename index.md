@@ -56,11 +56,16 @@ Researcher and Software Engineer specializing in Simulation Science and Material
 </ul>
 </div>
 
-## Skill
+## Skills
 
-- **Language**: 日本語、英語
-- **Programming**: Python, C#, VB.net, MATLAB
-- **Application**: LAMMPS, Visual Studio
+<ul class="skills-list">
+    <li class="skill-tag">Python</li>
+    <li class="skill-tag">C#</li>
+    <li class="skill-tag">VB.net</li>
+    <li class="skill-tag">MATLAB</li>
+    <li class="skill-tag">LAMMPS</li>
+    <li class="skill-tag">Visual Studio</li>
+</ul>
 
 ## Journal Articles
 
