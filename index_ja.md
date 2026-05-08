@@ -1,59 +1,71 @@
-# 庭野 恭彰 (Yasuaki Niwano)
+---
+layout: default
+lang: ja
+title: 庭野 恭彰 (Yasuaki Niwano)
+---
 
-[English version](index.md)
+# 庭野 恭彰
 
-## 個人情報
-
-- **名前**: 庭野 恭彰
-- **Mail**: [yasuaki.niwnao@protonmail.com](mailto:yasuaki.niwano@protonmail.com)
-- **LinkedIn**: [Yasuaki Niwano](https://www.linkedin.com/in/yasuaki0105niwano)
-- **GitHub**: [yn-cloud](https://github.com/yn-cloud)
-- **X**: [@yassu_nwn](https://twitter.com/yassu_nwn)
+シミュレーション科学、マテリアルズ・インフォマティクスを専門とする研究者・ソフトウェアエンジニア。
 
 ## 職歴
 
-### オリンパスメディカルシステムズ株式会社
+<div class="experience-item">
+<h3>オリンパスメディカルシステムズ株式会社</h3>
+<span class="period">2024年4月 〜 現在</span>
+<ul>
+    <li>ソフトウェアエンジニア、シミュレーションエンジニア</li>
+    <li>樹脂材料のMDシミュレーションの開発。</li>
+</ul>
+</div>
 
-**期間**: 2024年4月 〜 現在
-
-- **主な業務内容**:
-  - 樹脂材料のMDシミュレーションの開発
-
-### オリンパス株式会社
-
-**期間**: 2018年4月 〜 2024年3月
-
-- **主な業務内容**:
-  - 社内向けCADアプリケーションの開発
-  - 鉄鋼焼き入れシミュレーションの開発
+<div class="experience-item">
+<h3>オリンパス株式会社</h3>
+<span class="period">2018年4月 〜 2024年3月</span>
+<ul>
+    <li>ソフトウェアエンジニア、シミュレーションエンジニア</li>
+    <li>社内向けCADアプリケーションの開発、鉄鋼焼き入れシミュレーションの開発。</li>
+</ul>
+</div>
 
 ## 学歴
 
-### 東北大学（博士）
+<div class="education-item">
+<h3>東北大学（博士）</h3>
+<span class="period">2026年4月 〜 現在</span>
+<ul>
+    <li>工学研究科知能デバイス材料学専攻</li>
+</ul>
+</div>
 
-**期間**: 2026年4月 〜 現在
+<div class="education-item">
+<h3>東京大学（修士）</h3>
+<span class="period">2016年4月 〜 2018年3月</span>
+<ul>
+    <li>工学系研究科精密工学専攻</li>
+    <li>学位：修士（工学）</li>
+</ul>
+</div>
 
-- **専攻**: 工学研究科知能デバイス材料学専攻
-
-### 東京大学（修士）
-
-**期間**: 2016年4月 〜 2018年3月
-
-- **専攻**: 工学系研究科精密工学専攻
-- **学位**:修士
-
-### 東京大学（学士）
-
-**期間**: 2012年4月 〜 2016年3月
-
-- **学部**: 工学部精密工学科
-- **学位**: 学士
+<div class="education-item">
+<h3>東京大学（学士）</h3>
+<span class="period">2012年4月 〜 2016年3月</span>
+<ul>
+    <li>工学部精密工学科</li>
+    <li>学位：学士（工学）</li>
+</ul>
+</div>
 
 ## スキル
 
-- **言語**: 日本語、英語
-- **プログラミング**: Python, C#, VB.net, MATLAB
-- **ツール**: LAMMPS, Visual Studio
+<ul class="skills-list">
+    <li class="skill-tag">Python</li>
+    <li class="skill-tag">C#</li>
+    <li class="skill-tag">VB.net</li>
+    <li class="skill-tag">MATLAB</li>
+    <li class="skill-tag">LAMMPS</li>
+    <li class="skill-tag">Visual Studio</li>
+</ul>
 
 ## 論文
 

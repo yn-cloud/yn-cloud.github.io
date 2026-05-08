@@ -1,50 +1,71 @@
-# Yasuaki NIWANO（庭野 恭彰）
+---
+layout: default
+lang: en
+title: Yasuaki NIWANO (庭野 恭彰)
+---
 
-[日本語版](index_ja.md)
+# Yasuaki NIWANO
 
-## Profile
-
-- **Name**: Yasuaki Niwano
-- **Mail**: [yasuaki.niwnao@protonmail.com](mailto:yasuaki.niwano@protonmail.com)
-- **LinkedIn**: [Yasuaki Niwano](https://www.linkedin.com/in/yasuaki0105niwano)
-- **GitHub**: [yn-cloud](https://github.com/yn-cloud)
-- **X**: [@yassu_nwn](https://twitter.com/yassu_nwn)
+Researcher and Software Engineer specializing in Simulation Science and Materials Informatics.
 
 ## Experience
 
-### Olympus Medical Systems Corporation
+<div class="experience-item">
+<h3>Olympus Medical Systems Corporation</h3>
+<span class="period">April 2024 - Present</span>
+<ul>
+    <li>Software Engineer, Simulation Engineer, Material Simulation Engineer</li>
+    <li>Developing MD simulations for resin materials.</li>
+</ul>
+</div>
 
-**Period**: April 2024 - Present
-
-- **Position**: Software Engineer, Simulation Engineer, Material Simulation Engineer
-
-### Olympus Corporation
-
-**Period**: April 2018 - March 2024
-
-- **Position**: Software Engineer, Simulation Engineer
+<div class="experience-item">
+<h3>Olympus Corporation</h3>
+<span class="period">April 2018 - March 2024</span>
+<ul>
+    <li>Software Engineer, Simulation Engineer</li>
+    <li>Developed internal CAD applications and steel quenching simulations.</li>
+</ul>
+</div>
 
 ## Education
 
-### Tohoku University (Doctor)
+<div class="education-item">
+<h3>Tohoku University (Doctor)</h3>
+<span class="period">April 2026 - Present</span>
+<ul>
+    <li>Major: Material Science</li>
+</ul>
+</div>
 
-**Period**: April 2026 - Present
+<div class="education-item">
+<h3>The University of Tokyo (Master)</h3>
+<span class="period">April 2016 - March 2018</span>
+<ul>
+    <li>Major: Precision Engineering</li>
+    <li>Degree: Master of Engineering</li>
+</ul>
+</div>
 
-- **Major**: Material Science
+<div class="education-item">
+<h3>The University of Tokyo (Bachelor)</h3>
+<span class="period">April 2012 - March 2016</span>
+<ul>
+    <li>Major: Precision Engineering</li>
+    <li>Degree: Bachelor of Engineering</li>
+</ul>
+</div>
 
-### The University of Tokyo (Master)
+## Skills
 
-**Period**: April 2016 - March 2018
-
-- **Major**: Precision Engineering
-- **Degree**: Master of Engineering
-
-### The University of Tokyo (Bachelor)
-
-**Period**: April 2012 - March 2016
-
-- **Major**: Precision Engineering
-- **Degree**: Bachelor of Engineering
+<ul class="skills-list">
+    <li class="skill-tag">Python</li>
+    <li class="skill-tag">C#</li>
+    <li class="skill-tag">VB.net</li>
+    <li class="skill-tag">MATLAB</li>
+    <li class="skill-tag">LAMMPS</li>
+    <li class="skill-tag">Visual Studio</li>
+</ul>
 
 ## Journal Articles
 
@@ -60,4 +81,4 @@
 
 ## Awards and Honors
 
-- Encouragement Award for Papers: IEEJ ransactions on Electronics Information and Systems (2018)
+- Encouragement Award for Papers: IEEJ Transactions on Electronics Information and Systems (2018)
